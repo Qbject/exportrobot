@@ -29,10 +29,12 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 ## Demonstration Videos
 1. **Saving Messages**:
    How to save messages using the ExportRobot bot:
+
    https://github.com/user-attachments/assets/858e7614-bd84-4a0d-9074-08c8fab29a6c
 
-2. **Viewing Saved HTML File**:
+3. **Viewing Saved HTML File**:
    The saved HTML file in action, demonstrating offline viewing with full message preservation:
+
    https://github.com/user-attachments/assets/37706f40-8aca-4b8b-bf9e-1b19000d8d05
 
 ## Installation
