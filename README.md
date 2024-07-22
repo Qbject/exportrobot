@@ -22,9 +22,6 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 - 📊 **Progress Updates**: Provides status updates during the export process.
 - 💾 **Local and Remote Saving Options**: Save files locally or send them via Telegram.
 - 👤 **Avatar and Profile Picture Inclusion**: Fetches and includes user avatars and profile pictures.
-- 🚨 **Error Handling and Notifications**: Notifies users of any errors during the export process.
-- 🚦 **Limits to Prevent Overload**: Configurable limits on the number of messages and attachment sizes.
-- 🔒 **User Privacy**: Messages are saved and shared only with the initiating user.
 
 ## Demonstration Videos
 1. **Saving Messages**:
