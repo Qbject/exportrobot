@@ -111,7 +111,7 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 ## Development
 ### Folder Structure
 ```
-A:\PROJ\EXPORTROBOT\EXPORTROBOT
+exportrobot
 ├── .env
 ├── .gitignore
 ├── requirements.txt
@@ -129,8 +129,6 @@ A:\PROJ\EXPORTROBOT\EXPORTROBOT
 │   ├── template.tgmsg.html
 │   ├── tgbot_err.txt
 │   ├── tgbot_log.txt
-│
-└── venv
 ```
 - **.env**: Environment variables file.
 - **.gitignore**: Specifies files to ignore in the repository.
