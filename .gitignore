@@ -1,0 +1,11 @@
+.env
+tgbot_err.txt
+tgbot_log.txt
+
+# Virtual environment
+venv/
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
