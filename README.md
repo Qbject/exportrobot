@@ -40,7 +40,7 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 ## Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/exportrobot.git
+   git clone https://github.com/Qbject/exportrobot.git
    cd exportrobot
    ```
 
