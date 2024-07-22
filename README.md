@@ -21,7 +21,7 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 - ✏️ **Customizable Export**: Specify a filename for your saved messages.
 - 📊 **Progress Updates**: Provides status updates during the export process.
 - 💾 **Local and Remote Saving Options**: Save files locally or send them via Telegram.
-- 👤 **Avatar and Profile Picture Inclusion**: Fetches and includes user avatars and profile pictures.
+- 👤 **Profile Pictures Inclusion**: Fetches and includes user profile pictures.
 
 ## Demonstration Videos
 1. **Saving Messages**:
@@ -29,7 +29,7 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
 
    https://github.com/user-attachments/assets/858e7614-bd84-4a0d-9074-08c8fab29a6c
 
-3. **Viewing Saved HTML File**:
+2. **Viewing Saved HTML File**:
    The saved HTML file in action, demonstrating offline viewing with full message preservation:
 
    https://github.com/user-attachments/assets/37706f40-8aca-4b8b-bf9e-1b19000d8d05
@@ -58,6 +58,14 @@ ExportRobot is a Telegram bot designed to save your messages into a single HTML 
    ```
 
 ## Configuration
+### How to Get Your Telegram Bot Token
+To get your Telegram bot token, follow these steps:
+1. Open Telegram and search for the [BotFather](https://t.me/botfather).
+2. Start a chat with BotFather and send the command `/start`.
+3. Send the command `/newbot` to create a new bot.
+4. Follow the instructions to name your bot and create a unique username for it.
+5. After you have successfully created your bot, BotFather will provide you with a message containing your **bot token**. This token will look something like `123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11`.
+
 - **Environment Variables**:
   - Add your Telegram bot token to the `.env` file:
     ```
